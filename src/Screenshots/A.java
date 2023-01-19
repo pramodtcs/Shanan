@@ -20,7 +20,7 @@ public static void main(String[] args) throws Throwable {
 	
 	WebDriver driver = new ChromeDriver();
 	
-	driver.get("https://www.amazon.in/");
+	driver.get("https://www.flipkart.in/");
 	
 	//maximize
 	Thread.sleep(4000);
